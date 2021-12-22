@@ -30,4 +30,7 @@ If applicable, add screenshots to help explain your problem.
 
 
 **Additional context**
+
+Please provide the username / name of the incident reporter so we can communicate with them in the ticket.
+
 Add any other context about the problem here.
